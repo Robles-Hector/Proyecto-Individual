@@ -1,4 +1,4 @@
-# F1 Telemetry Hub - SPA de Análisis Histórico (2002-2026)
+# Proyecto Individual: F1 Telemetry Hub (2002-2026)
 
 Una Single Page Application (SPA) de alto rendimiento diseñada para entusiastas y analistas de la Fórmula 1. La plataforma centraliza datos estadísticos, técnicos e históricos de la categoría reina desde la era de Schumacher hasta la futura reglamentación de 2026.
 
